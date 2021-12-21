@@ -1,3 +1,5 @@
+name: asdfasdf
+on: push
 jobs:
   build:
     name: Hello world action
